@@ -1,4 +1,4 @@
-# Project1-PBI
+# Project1-PBI-SALES
 This project is a Sales Report Dashboard created using Power BI to analyze and visualize key sales performance metrics. The dashboard provides interactive insights into sales trends, customer orders, product performance, and profitability from 2014 to 2017.
 
 🛠 Tools & Technologies Used
